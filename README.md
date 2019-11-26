@@ -1,4 +1,4 @@
-# KrysisRobot
+# Krysis Robot
 
 ### ESET 219 Krysis Robot Project at Texas A&M University, Fall 2019
 
