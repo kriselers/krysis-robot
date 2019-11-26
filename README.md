@@ -1,8 +1,10 @@
 # KrysisRobot
 
-ESET 219 Krysis Robot Project at Texas A&M University, Fall 2019
+### ESET 219 Krysis Robot Project at Texas A&M University, Fall 2019
+
+The Krysis Robot will use three inductors on the front of a sensor board to detect it's location on a wire track. It will use a state machine to adjust the speed of its motors to keep it on the track to complete the circuit.
 
 Contributors:
-  Kris Elers
-  Alex Liu
-  Josh Salinas
+  - Kris Elers
+  - Alex Liu
+  - Josh Salinas
